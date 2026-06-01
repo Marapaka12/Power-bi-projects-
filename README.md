@@ -11,3 +11,7 @@ Developed an interactive HR Analytics Dashboard in Power BI to analyze employee 
 **IPL Analytics Dashboard | Power BI**
 
 Developed an interactive IPL Analytics Dashboard in Power BI to analyze team performance, player statistics, match outcomes, and season trends. The dashboard provides insights into total matches played, win percentages, top run scorers, leading wicket-takers, venue-wise performance, toss impact analysis, and team comparisons. Utilized Power Query for data cleaning, DAX for KPI calculations, and advanced visualizations to transform raw IPL data into actionable insights for cricket analysis and decision-making.
+
+**Sales Analytics Dashboard | Power BI**
+
+Developed an interactive Sales Analytics Dashboard in Power BI to monitor and analyze sales performance across products, regions, customers, and time periods. The dashboard provides key insights into total revenue, profit, sales growth, top-performing products, customer segments, and regional sales trends. Utilized Power Query for data transformation, DAX for KPI calculations, and dynamic visualizations to support data-driven business decisions and improve sales performance.
