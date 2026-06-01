@@ -15,3 +15,7 @@ Developed an interactive IPL Analytics Dashboard in Power BI to analyze team per
 **Sales Analytics Dashboard | Power BI**
 
 Developed an interactive Sales Analytics Dashboard in Power BI to monitor and analyze sales performance across products, regions, customers, and time periods. The dashboard provides key insights into total revenue, profit, sales growth, top-performing products, customer segments, and regional sales trends. Utilized Power Query for data transformation, DAX for KPI calculations, and dynamic visualizations to support data-driven business decisions and improve sales performance.
+
+**Order & Customer Analytics Dashboard | Power BI**
+
+Developed an interactive Order & Customer Analytics Dashboard in Power BI to analyze customer behavior, order trends, sales performance, and business growth. The dashboard provides insights into total orders, customer segmentation, repeat customers, revenue trends, order status, top customers, and product performance. Leveraged Power Query for data transformation, DAX for KPI calculations, and interactive visualizations to support customer-centric and data-driven business decisions.
